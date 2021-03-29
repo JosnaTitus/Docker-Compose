@@ -9,7 +9,7 @@ Steps to solve this Assignment: -
       
   2.Go to cloned repo-directory and Build image using command: -
 
-          cd DevOps_Assignment2
+          cd Docker-Compose
       
           sudo docker build . -t abc
 
