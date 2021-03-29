@@ -11,11 +11,11 @@ Steps to solve this Assignment: -
 
       cd DevOps_Assignment2
       
-      sudo docker build . -t assignment_2
+      sudo docker build . -t abc
 
   3.Start the container using command: -
 
-      sudo docker run --name pucsd_assignment_2 -p 4040:4040 -d assignment_2
+      sudo docker run --name abc -p 4040:4040 -d abc
       
   4.Use config command to configure your file: -
      
@@ -27,7 +27,7 @@ Steps to solve this Assignment: -
 
   6.Connect to MYSQL using a bash shell using command: -
 
-       sudo docker exec -it pucsd_assignment_2 /bin/bash
+       sudo docker exec -it abc /bin/bash
        
   7.Use down command to shut down your docker compose file: -
 
