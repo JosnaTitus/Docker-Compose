@@ -1,4 +1,4 @@
-                                        Mysql cluster using docker-compose
+                                        MYSQL cluster using docker-compose
                                         
                                         
 Steps to solve this Assignment: -
