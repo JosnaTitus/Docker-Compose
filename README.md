@@ -25,13 +25,13 @@ Steps to solve this Assignment: -
         
           sudo docker-compose up
 
-  6.Connect to MYSQL using a bash shell using command: -
-
-          sudo docker exec -it abc /bin/bash
-       
-  7.To display all the running process, use the command:-
+  6.To display all the running process, use the command:-
      
           sudo docker-compose ps
+          
+  7.Connect to MYSQL using a bash shell using command: -
+
+          sudo docker exec -it abc /bin/bash
        
   8.Use down command to shut down your docker compose file: -
 
