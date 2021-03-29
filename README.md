@@ -29,7 +29,7 @@ Steps to solve this Assignment: -
 
           sudo docker exec -it abc /bin/bash
        
-  7. To display all the running process, use the command:-
+ 7. To display all the running process, use the command:-
      
           sudo docker-compose ps
        
