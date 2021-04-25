@@ -1,5 +1,10 @@
                                         MYSQL cluster using docker-compose
                                         
+Problem Statement: 
+
+      We have created the MySQL container from scratch and loaded the desired schema. Now we need to MySQL cluster using the docker-compose. You need to create a 3 node cluster and that cluster must be accessible from the outside world. 
+
+      One should run the command "docker-compose up" and able to connect to MySQL cluster using Mysql client (eg: Mysql Workbench)                                        
                                         
 Steps to solve this Assignment: -
 
